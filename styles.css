@@ -82,12 +82,12 @@ a {
     display: flex;
    background-color: red; 
    justify-content: space-around;
-   /* width: 100%;
+     width: 100%;
      align-items: center; 
     align-content: space-between;
     justify-content: center;
     flex-wrap: wrap;
-    flex-direction: column;*/ 
+    flex-direction: column;
 
 
     
@@ -104,7 +104,7 @@ a {
     align-items: center;
     justify-content: space-between;
     overflow: hidden;
-    position: fixed;
+    position: fixed; 
     padding: 10px;
     gap: 19px;
     
